@@ -24,7 +24,7 @@ to add the remaining that would be very welcome.
 Grain harvests per year in Norway broken down by grain species, 1835-2019,
 measured in 1000 tons.
 
-It had to cobbled together from a number of different publications,
+It had to be cobbled together from a number of different publications,
 all from Norway's Central Bureau of Statistics:
 
   * [Norges offisielle statistikk 1968](https://www.ssb.no/a/histstat/hs1968.pdf): page 138, years 1835-1966
